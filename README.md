@@ -36,4 +36,4 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-👁️%20My%20Website-000)]{https://github.com/FARAZ-ID}
+[![](https://img.shields.io/badge/-👁️%20My%20Github-000)] {https://github.com/FARAZ-ID}
