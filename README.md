@@ -2,13 +2,13 @@
 
 - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
-<h1 align="center">★FARAZ ALI ID★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
+<h1 align="center">★M4LIK-Z4ID★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 <a href="https://github.com/Hunter-alamin"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hunter-alamin&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 ## ★ Github data ★
 >
 > *Number of visitors*
-* **Visitor Github @FARAZ-ID**
+* **Visitor Github @M4LIK**
 ![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
 ### Languages
 
@@ -36,4 +36,4 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-👁️%20My%20Github-000)] {https://github.com/FARAZ-ID}
+[![](https://img.shields.io/badge/-👁️%20My%20Github-000)] {https://github.com/M4LIK-Z4ID}
